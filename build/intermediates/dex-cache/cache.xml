@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Projects\Android\MessagingService\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-bb525134398649abd8ca4f6c89ec5e7070c5a344.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Android\MessagingService\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-45bca8cb5c074f6d0df535b861a57c5e640dcd14.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Android\MessagingService\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-8e7929b39e6b481602023a2e3f161c2fd6abcd68.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Android\MessagingService\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-0dffa8ba01d1dd0181aca84cf475280b2e524a13.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Android\MessagingService\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\classes-46000a4a621fbc1f631bfdad8542636dcadf1c42.jar" />
+    </item>
+    <item
+        jar="C:\Users\masanori\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Projects\Android\MessagingService\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7809e75c95d97b2f8e7d5c73888b837e9537bd2b.jar" />
+    </item>
+
+</items>
